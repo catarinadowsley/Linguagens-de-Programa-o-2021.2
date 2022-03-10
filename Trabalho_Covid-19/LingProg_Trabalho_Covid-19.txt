@@ -1,0 +1,25 @@
+README.txt --- MUDAR AS PALAVRAS
+
+Este programa mostra estatísticas sobre a COVID-19 por estado/distrito e no Brasil como um todo.
+
+
+Instruções sobre a utilização do menu(para sair do programa basta digitar 8): 
+
+
+1. Mostrar media movel dos estados                  -> Mostra a média móvel nos últimos 3 dias dos estados contidos no programa.
+2. Mostrar media movel no Brasil                    -> Mostra a média móvel nos últimos 3 dias do Brasil.
+3.  Mostrar a estabilidade dos estados               -> Mostra o tipo de risco (alta - acima de 10 %, baixa - abaixo de -10% ou estabilidade - entre os dois valores) em cada estado nos últimos 3 dias, de acordo com a média móvel calculada "hoje" e a média móvel calculada "ontem".
+4. Mostrar a estabilidade do Brasil                 -> Mostra o tipo de risco (alta - acima de 10 %, baixa - abaixo de -10% ou estabilidade - entre os dois valores) no Brasil no últimos 3 dias, de acordo com a média móvel calculada "hoje" e a média móvel calculada "ontem".
+5. Mostrar estados com maior alta e maior baixa     -> Mostra o(s) estado(s) com maior alta e maior baixa no Brasil nos últimos 9 dias, de acordo com a média móvel calculada "hoje" e a média móvel calculada "ontem".
+
+6. Mostrar numero de obitos em cada estado          -> Mostra o número de óbitos totais em cada estado desde o início de observação.
+7. Mostrar numero de obitos no Brasil               -> Mostra o número de óbitos totais no Brasil desde o início de observação.
+
+8. Sair do Programa				    -> O programa é finalizado.
+
+usuario ubuntu:
+catarinadowsley
+senha ubuntu:
+cat1115cat
+
+\\wsl$\Ubuntu-18.04\home\catarinadowsley\LingProg\Trabalho Covid
